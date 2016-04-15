@@ -1,0 +1,149 @@
+Bridge	Bridge	Bridge Crossing
+Bridge	Bridge-a	Bridge Crossing
+Bridge	Bridge-b	Bridge Crossing
+Bridge Crossing	Bridge	Bridge Crossing
+Bridge Crossing	Bridge-a	Bridge Crossing
+Bridge Crossing	Bridge-b	Bridge Crossing
+Bridge_SE	Bridge	Bridge Crossing SE
+Bridge_SE	Bridge-a	Bridge Crossing SE
+Bridge_SE	Bridge-b	Bridge Crossing SE
+Bridge SE	Bridge	Bridge Crossing SE
+Bridge SE	Bridge-a	Bridge Crossing SE
+Bridge SE	Bridge-b	Bridge Crossing SE
+FLS	FLS	FLS Assault
+FLS	FLS-a	FLS Assault
+FLS	FLS-b	FLS Assault
+FLS Assault	FLS	FLS Assault
+FLS Assault	FLS-a	FLS Assault
+FLS Assault	FLS-b	FLS Assault
+HQ_Raid	HQ_Raid	Headquarters Raid
+HQ_Raid	HQ_Raid-a	Headquarters Raid
+HQ_Raid	HQ_Raid-b	Headquarters Raid
+HQ_Raid	HQ_Raid-c	Headquarters Raid
+HQ_Raid	HQ_Raid-d	Headquarters Raid
+Headquarters Raid	HQ_Raid	Headquarters Raid
+Headquarters Raid	HQ_Raid-a	Headquarters Raid
+Headquarters Raid	HQ_Raid-b	Headquarters Raid
+Headquarters Raid	HQ_Raid-c	Headquarters Raid
+Headquarters Raid	HQ_Raid-d	Headquarters Raid
+Insurgent_Camp	Insurgent_Camp	Insurgent Camp
+Insurgent_Camp	Insurgent_Camp-a	Insurgent Camp
+Insurgent_Camp	Insurgent_Camp-b	Insurgent Camp
+Insurgent_Camp	Insurgent_Camp-c	Insurgent Camp
+Insurgent Camp	Insurgent_Camp	Insurgent Camp
+Insurgent Camp	Insurgent_Camp-a	Insurgent Camp
+Insurgent Camp	Insurgent_Camp-b	Insurgent Camp
+Insurgent Camp	Insurgent_Camp-c	Insurgent Camp
+JRTC_Farm	JRTC_Farm	JRTC Farm Raid
+JRTC_Farm	JRTC_Farm-a	JRTC Farm Raid
+JRTC_Farm	JRTC_Farm-b	JRTC Farm Raid
+JRTC_Farm	JRTC_Farm-c	JRTC Farm Raid
+JRTC_Farm	JRTC_Farm-d	JRTC Farm Raid
+JRTC_Farm	JRTC_Farm-e	JRTC Farm Raid
+JRTC Farm Raid	JRTC_Farm	JRTC Farm Raid
+JRTC Farm Raid	JRTC_Farm-a	JRTC Farm Raid
+JRTC Farm Raid	JRTC_Farm-b	JRTC Farm Raid
+JRTC Farm Raid	JRTC_Farm-c	JRTC Farm Raid
+JRTC Farm Raid	JRTC_Farm-d	JRTC Farm Raid
+JRTC Farm Raid	JRTC_Farm-e	JRTC Farm Raid
+Jump_Tower	Jump_Tower	Jump Tower
+Leavenworth	Leavenworth	Leavenworth
+Live_Jump	Live_Jump	Live Jump
+M24_Range	M24_Range	M24 Range
+M82_Range	M82_Range	M82 Range
+Mountain_Ambush	Mountain_Ambush	Mountain Ambush
+Mountain_Ambush	Mountain_Ambush-a	Mountain Ambush
+Mountain_Ambush	Mountain_Ambush-b	Mountain Ambush
+Mountain_Ambush	Mountain_Ambush-c	Mountain Ambush
+Mountain Ambush	Mountain_Ambush	Mountain Ambush
+Mountain Ambush	Mountain_Ambush-a	Mountain Ambush
+Mountain Ambush	Mountain_Ambush-b	Mountain Ambush
+Mountain Ambush	Mountain_Ambush-c	Mountain Ambush
+Mountain_Pass	Mountain_Pass	Mountain Pass
+Mountain_Pass	Mountain_Pass-a	Mountain Pass
+Mountain_Pass	Mountain_Pass-b	Mountain Pass
+Mountain_Pass	Mountain_Pass-c	Mountain Pass
+Mountain Pass	Mountain_Pass	Mountain Pass
+Mountain Pass	Mountain_Pass-a	Mountain Pass
+Mountain Pass	Mountain_Pass-b	Mountain Pass
+Mountain Pass	Mountain_Pass-c	Mountain Pass
+Mountain Pass SE	Mountain_Pass	Mountain Pass SE
+Mountain Pass SE	Mountain_Pass-a	Mountain Pass SE
+Mountain Pass SE	Mountain_Pass-b	Mountain Pass SE
+Mountain Pass SE	Mountain_Pass-c	Mountain Pass SE
+MOUT_McKenna	MOUT_McKenna	Mout McKenna
+MOUT_McKenna	MOUT_McKenna-a	Mout McKenna
+MOUT_McKenna	MOUT_McKenna-b	Mout McKenna
+MOUT_McKenna	MOUT_McKenna-c	Mout McKenna
+MOUT_McKenna	MOUT_McKenna-d	Mout McKenna
+MOUT McKenna	MOUT_McKenna	Mout McKenna
+MOUT McKenna	MOUT_McKenna-a	Mout McKenna
+MOUT McKenna	MOUT_McKenna-b	Mout McKenna
+MOUT McKenna	MOUT_McKenna-c	Mout McKenna
+MOUT McKenna	MOUT_McKenna-d	Mout McKenna
+Obstacle	Obstacle	Obstacle
+Pipeline	Pipeline	Pipeline
+Pipeline	Pipeline-a	Pipeline
+Pipeline	Pipeline-b	Pipeline
+Pipeline	Pipeline-c	Pipeline
+Radio_Tower	Radio_Tower	Radio Tower
+Radio_Tower	Radio_Tower-a	Radio Tower
+Radio_Tower	Radio_Tower-b	Radio Tower
+Radio_Tower	Radio_Tower-c	Radio Tower
+Radio_Tower	Radio_Tower-d	Radio Tower
+Radio Tower	Radio_Tower	Radio Tower
+Radio Tower	Radio_Tower-a	Radio Tower
+Radio Tower	Radio_Tower-b	Radio Tower
+Radio Tower	Radio_Tower-c	Radio Tower
+Radio Tower	Radio_Tower-d	Radio Tower
+Rifle_Range	Rifle_Range	Rifle Range
+River_Basin	River_Basin	River Basin
+River_Basin	River_Basin-a	River Basin
+River_Basin	River_Basin-b	River Basin
+River_Basin	River_Basin-c	River Basin
+River Basin	River_Basin	River Basin
+River Basin	River_Basin-a	River Basin
+River Basin	River_Basin-b	River Basin
+River Basin	River_Basin-c	River Basin
+Swamp_Raid	Swamp_Raid	Swamp Raid
+Swamp_Raid	Swamp_Raid-a	Swamp Raid
+Swamp_Raid	Swamp_Raid-b	Swamp Raid
+Swamp Raid	Swamp_Raid	Swamp Raid
+Swamp Raid	Swamp_Raid-a	Swamp Raid
+Swamp Raid	Swamp_Raid-b	Swamp Raid
+Tactical_Training	Tactical_Training	Tactical Training
+Collapsed Tunnel	Tunnel	Collapsed Tunnel
+Collapsed Tunnel	Tunnel-a	Collapsed Tunnel
+Collapsed Tunnel	Tunnel-b	Collapsed Tunnel
+Collapsed Tunnel	Tunnel-c	Collapsed Tunnel
+Collapsed Tunnel	Tunnel-d	Collapsed Tunnel
+Tunnel	Tunnel	Collapsed Tunnel
+Tunnel	Tunnel-a	Collapsed Tunnel
+Tunnel	Tunnel-b	Collapsed Tunnel
+Tunnel	Tunnel-c	Collapsed Tunnel
+Tunnel	Tunnel-d	Collapsed Tunnel
+US_Weapons	US_Weapons	US Weapons
+Weapons_Cache	Weapons_Cache	Weapons Cache
+Weapons_Cache	Weapons_Cache-a	Weapons Cache
+Weapons_Cache	Weapons_Cache-b	Weapons Cache
+Weapons_Cache	Weapons_Cache-c	Weapons Cache
+Weapons_Cache	Weapons_Cache-d	Weapons Cache
+Weapons_Cache	Weapons_Cache-e	Weapons Cache
+Weapons Cache	Weapons_Cache	Weapons Cache
+Weapons Cache	Weapons_Cache-a	Weapons Cache
+Weapons Cache	Weapons_Cache-b	Weapons Cache
+Weapons Cache	Weapons_Cache-c	Weapons Cache
+Weapons Cache	Weapons_Cache-d	Weapons Cache
+Weapons Cache	Weapons_Cache-e	Weapons Cache
+Weapons_Cache_SE	Weapons_Cache	Weapons Cache SE
+Weapons_Cache_SE	Weapons_Cache-a	Weapons Cache SE
+Weapons_Cache_SE	Weapons_Cache-b	Weapons Cache SE
+Weapons_Cache_SE	Weapons_Cache-c	Weapons Cache SE
+Weapons_Cache_SE	Weapons_Cache-d	Weapons Cache SE
+Weapons_Cache_SE	Weapons_Cache-e	Weapons Cache SE
+Weapons Cache SE	Weapons_Cache	Weapons Cache SE
+Weapons Cache SE	Weapons_Cache-a	Weapons Cache SE
+Weapons Cache SE	Weapons_Cache-b	Weapons Cache SE
+Weapons Cache SE	Weapons_Cache-c	Weapons Cache SE
+Weapons Cache SE	Weapons_Cache-d	Weapons Cache SE
+Weapons Cache SE	Weapons_Cache-e	Weapons Cache SE

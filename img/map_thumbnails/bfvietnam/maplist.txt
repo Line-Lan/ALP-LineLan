@@ -1,0 +1,132 @@
+cambodian incursion	cambodianincursion	Cambodian Incursion
+cambodian incursion	cambodianincursion-a	Cambodian Incursion
+cambodian incursion	cambodianincursion-b	Cambodian Incursion
+cambodian incursion	cambodianincursion-c	Cambodian Incursion
+cambodian incursion	cambodianincursion-d	Cambodian Incursion
+cambodian incursion	cambodianincursion-e	Cambodian Incursion
+cambodian incursion	cambodianincursion-f	Cambodian Incursion
+ia drang valley	iadrangvalley-g	The ia Drang Valley
+ia drang valley	iadrangvalley	The ia Drang Valley
+ia drang valley	iadrangvalley-a	The ia Drang Valley
+ia drang valley	iadrangvalley-b	The ia Drang Valley
+ia drang valley	iadrangvalley-c	The ia Drang Valley
+ia drang valley	iadrangvalley-d	The ia Drang Valley
+ia drang valley	iadrangvalley-e	The ia Drang Valley
+ia drang valley	iadrangvalley-f	The ia Drang Valley
+ia drang valley	iadrangvalley-g	The ia Drang Valley
+ia drang	iadrangvalley	ia Drang
+ia drang	iadrangvalley-a	ia Drang
+ia drang	iadrangvalley-b	ia Drang
+ia drang	iadrangvalley-c	ia Drang
+ia drang	iadrangvalley-d	ia Drang
+ia drang	iadrangvalley-e	ia Drang
+ia drang	iadrangvalley-f	ia Drang
+lang vei	falloflangvei	Lang Vei
+lang vei	falloflangvei-a	Lang Vei
+lang vei	falloflangvei-b	Lang Vei
+lang vei	falloflangvei-c	Lang Vei
+lang vei	falloflangvei-d	Lang Vei
+fall of lang vei	falloflangvei	Fall of Lang Vei
+fall of lang vei	falloflangvei-a	Fall of Lang Vei
+fall of lang vei	falloflangvei-b	Fall of Lang Vei
+fall of lang vei	falloflangvei-c	Fall of Lang Vei
+fall of lang vei	falloflangvei-d	Fall of Lang Vei
+ho chi minh trail alt	hochiminhtrail	Ho Chi Minh Trail
+ho chi minh trail alt	hochiminhtrail-a	Ho Chi Minh Trail Alt
+ho chi minh trail alt	hochiminhtrail-b	Ho Chi Minh Trail Alt
+ho chi minh trail alt	hochiminhtrail-c	Ho Chi Minh Trail Alt
+ho chi minh trail alt	hochiminhtrail-d	Ho Chi Minh Trail Alt
+ho chi minh trail alt	hochiminhtrail-e	Ho Chi Minh Trail Alt
+ho chi minh trail	hochiminhtrail	Ho Chi Minh Trail
+ho chi minh trail	hochiminhtrail-a	Ho Chi Minh Trail
+ho chi minh trail	hochiminhtrail-b	Ho Chi Minh Trail
+ho chi minh trail	hochiminhtrail-c	Ho Chi Minh Trail
+ho chi minh trail	hochiminhtrail-d	Ho Chi Minh Trail
+ho chi minh trail	hochiminhtrail-e	Ho Chi Minh Trail
+hue 1968	hue1968-e	Hue - 1968
+hue 1968	hue1968	Hue - 1968
+hue 1968	hue1968-a	Hue - 1968
+hue 1968	hue1968-b	Hue - 1968
+hue 1968	hue1968-c	Hue - 1968
+hue 1968	hue1968-d	Hue - 1968
+hue 1968	hue1968-e	Hue - 1968
+hue alt	hue1968	Hue Alt
+hue alt	hue1968-a	Hue Alt
+hue alt	hue1968-b	Hue Alt
+hue alt	hue1968-c	Hue Alt
+hue alt	hue1968-d	Hue Alt
+hue	hue1968	Hue
+hue	hue1968-a	Hue
+hue	hue1968-b	Hue
+hue	hue1968-c	Hue
+hue	hue1968-d	Hue
+landing zone albany	landingzonealbany	Landing Zone Albany
+landing zone albany	landingzonealbany-a	Landing Zone Albany
+landing zone albany	landingzonealbany-b	Landing Zone Albany
+landing zone albany	landingzonealbany-c	Landing Zone Albany
+landing zone albany	landingzonealbany-d	Landing Zone Albany
+operation flaming dart	operationflamingdart	Operation Flaming Dart
+operation flaming dart	operationflamingdart-a	Operation Flaming Dart
+operation flaming dart	operationflamingdart-b	Operation Flaming Dart
+operation flaming dart	operationflamingdart-c	Operation Flaming Dart
+operation flaming dart	operationflamingdart-d	Operation Flaming Dart
+operation flaming dart	operationflamingdart-e	Operation Flaming Dart
+operation flaming dart	operationflamingdart-f	Operation Flaming Dart
+operation game warden	operationgamewarden	Operation Game Warden
+operation game warden	operationgamewarden-a	Operation Game Warden
+operation game warden	operationgamewarden-b	Operation Game Warden
+operation game warden	operationgamewarden-c	Operation Game Warden
+operation game warden	operationgamewarden-d	Operation Game Warden
+operation game warden	operationgamewarden-e	Operation Game Warden
+operation hastings	operationhastings	Operation Hastings
+operation hastings	operationhastings-a	Operation Hastings
+operation hastings	operationhastings-b	Operation Hastings
+operation hastings	operationhastings-c	Operation Hastings
+operation hastings	operationhastings-d	Operation Hastings
+operation irving	operationirving	Operation Irving
+operation irving	operationirving-a	Operation Irving
+operation irving	operationirving-b	Operation Irving
+operation irving	operationirving-c	Operation Irving
+operation irving	operationirving-d	Operation Irving
+operation irving	operationirving-e	Operation Irving
+operation irving	operationirving-f	Operation Irving
+operation irving	operationirving-g	Operation Irving
+quang tri 1968	quangtri1968	Quang Tri - 1968
+quang tri 1968	quangtri1968-a	Quang Tri - 1968
+quang tri 1968	quangtri1968-b	Quang Tri - 1968
+quang tri 1968	quangtri1968-c	Quang Tri - 1968
+quang tri 1968	quangtri1968-d	Quang Tri - 1968
+quang tri 1972	quangtri1972	Quang Tri - 1972
+quang tri 1972	quangtri1972-a	Quang Tri - 1972
+quang tri 1972	quangtri1972-b	Quang Tri - 1972
+quang tri 1972	quangtri1972-c	Quang Tri - 1972
+quang tri 1972	quangtri1972-d	Quang Tri - 1972
+quang tri alt	quangtri1968	Quang Tri Alt
+quang tri alt	quangtri1968-a	Quang Tri Alt
+quang tri alt	quangtri1968-b	Quang Tri Alt
+quang tri alt	quangtri1968-c	Quang Tri Alt
+quang tri alt	quangtri1968-d	Quang Tri Alt
+quang tri	quangtri1968	Quang Tri
+quang tri	quangtri1968-a	Quang Tri
+quang tri	quangtri1968-b	Quang Tri
+quang tri	quangtri1968-c	Quang Tri
+quang tri	quangtri1968-d	Quang Tri
+reclaiming hue	reclaiminghue	Reclaiming Hue
+reclaiming hue	reclaiminghue-a	Reclaiming Hue
+reclaiming hue	reclaiminghue-b	Reclaiming Hue
+reclaiming hue	reclaiminghue-c	Reclaiming Hue
+reclaiming hue	reclaiminghue-d	Reclaiming Hue
+reclaiming hue	reclaiminghue-e	Reclaiming Hue
+reclaiming hue	reclaiminghue-f	Reclaiming Hue
+khe sahn	siegeofkhesahn	Khe Sahn
+khe sahn	siegeofkhesahn-a	Khe Sahn
+khe sahn	siegeofkhesahn-b	Khe Sahn
+khe sahn	siegeofkhesahn-c	Khe Sahn
+khe sahn	siegeofkhesahn-d	Khe Sahn
+khe sahn	siegeofkhesahn-e	Khe Sahn
+siege of khe sahn	siegeofkhesahn	Siege of Khe Sahn
+siege of khe sahn	siegeofkhesahn-a	Siege of Khe Sahn
+siege of khe sahn	siegeofkhesahn-b	Siege of Khe Sahn
+siege of khe sahn	siegeofkhesahn-c	Siege of Khe Sahn
+siege of khe sahn	siegeofkhesahn-d	Siege of Khe Sahn
+siege of khe sahn	siegeofkhesahn-e	Siege of Khe Sahn

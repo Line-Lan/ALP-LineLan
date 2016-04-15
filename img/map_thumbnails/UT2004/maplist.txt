@@ -1,0 +1,20 @@
+AS-Convoy	AS-Convoy	Convoy
+AS-Convoy	AS-Convoy-a	Convoy
+AS-Convoy	AS-Convoy-b	Convoy
+BR-Colossus	BR-Colossus	Colossus
+BR-Colossus	BR-Colossus-a	Colossus
+BR-Colossus	BR-Colossus-b	Colossus
+CTF-BridgeOfFate	CTF-BridgeOfFate	Bridge of Fate
+CTF-BridgeOfFate	CTF-BridgeOfFate-a	Bridge of Fate
+CTF-BridgeOfFate	CTF-BridgeOfFate-b	Bridge of Fate
+CTF-BridgeOfFate	CTF-BridgeOfFate-c	Bridge of Fate
+DM-Rankin	DM-Rankin	Rankin
+DM-Rankin	DM-Rankin-a	Rankin
+DM-Rankin	DM-Rankin-b	Rankin
+DM-Rankin	DM-Rankin-c	Rankin
+DM-Rankin	DM-Rankin-d	Rankin
+ONS-Torlan	ONS-Torlan	Torlan
+ONS-Torlan	ONS-Torlan-a	Torlan
+ONS-Torlan	ONS-Torlan-b	Torlan
+ONS-Torlan	ONS-Torlan-c	Torlan
+ONS-Torlan	ONS-Torlan-d	Torlan

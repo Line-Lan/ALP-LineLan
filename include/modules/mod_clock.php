@@ -1,0 +1,2 @@
+<a href="http://www.timeanddate.com/worldclock/city.html?n=316"><strong>clock</strong></a><?php get_go('http://www.timeanddate.com/worldclock/city.html?n=316'); ?><br /><br />
+<iframe src="https://freesecure.timeanddate.com/clock/i4sc50ru/n316/tlde3/fn12/fs24/fcfff/tct/pct/th1" frameborder="0" width="118" height="26" allowTransparency="true"></iframe>

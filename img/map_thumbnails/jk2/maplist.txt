@@ -1,0 +1,45 @@
+ffa_bespin	ffa_bespin	Bespin Streets
+ffa_bespin	ffa_bespin-a	Bespin Streets
+ffa_bespin	ffa_bespin-b	Bespin Streets
+ffa_bespin	ffa_bespin-c	Bespin Streets
+ffa_deathstar	ffa_deathstar	Death Star
+ffa_deathstar	ffa_deathstar-a	Death Star
+ffa_deathstar	ffa_deathstar-b	Death Star
+ffa_deathstar	ffa_deathstar-c	Death Star
+ffa_deathstar	ffa_deathstar-d	Death Star
+ffa_imperial	ffa_imperial	Star Destroyer
+ffa_imperial	ffa_imperial-a	Star Destroyer
+ffa_imperial	ffa_imperial-b	Star Destroyer
+ffa_imperial	ffa_imperial-c	Star Destroyer
+ffa_ns_hideout	ffa_ns_hideout	Garbage Facility
+ffa_ns_hideout	ffa_ns_hideout-a	Garbage Facility
+ffa_ns_hideout	ffa_ns_hideout-b	Garbage Facility
+ffa_ns_hideout	ffa_ns_hideout-c	Garbage Facility
+ffa_ns_streets	ffa_ns_streets	Nar Shaddaa Streets
+ffa_ns_streets	ffa_ns_streets-a	Nar Shaddaa Streets
+ffa_ns_streets	ffa_ns_streets-b	Nar Shaddaa Streets
+ffa_ns_streets	ffa_ns_streets-c	Nar Shaddaa Streets
+ffa_yavin	ffa_yavin	Massassi Temple
+ffa_yavin	ffa_yavin-a	Massassi Temple
+ffa_yavin	ffa_yavin-b	Massassi Temple
+ffa_yavin	ffa_yavin-c	Massassi Temple
+ctf_bespin	ctf_bespin	Bespin Exhaust Shafts
+ctf_bespin	ctf_bespin-a	Bespin Exhaust Shafts
+ctf_imperial	ctf_imperial	Garrison 27-D
+ctf_imperial	ctf_imperial-a	Garrison 27-D
+ctf_imperial	ctf_imperial-b	Garrison 27-D
+ctf_imperial	ctf_imperial-c	Garrison 27-D
+ctf_ns_streets	ctf_ns_streets	Warring Factions
+ctf_ns_streets	ctf_ns_streets-a	Warring Factions
+ctf_ns_streets	ctf_ns_streets-b	Warring Factions
+ctf_yavin	ctf_yavin	Temple Tournament
+ctf_yavin	ctf_yavin-a	Temple Tournament
+ffa_raven	ffa_raven	Imperial Labs: Raven
+ffa_raven	ffa_raven-a	Imperial Labs: Raven
+duel_bay	duel_bay	Imperial Shuttle Bay
+duel_carbon	duel_carbon	Carbon Chamber
+duel_jedi	duel_jedi	Battleground Jedi 2.0
+duel_jedi	duel_jedi-a	Battleground Jedi 2.0
+duel_pit	duel_pit	Trial Pit
+duel_pit	duel_pit-a	Trial Pit
+duel_pit	duel_pit-b	Trial Pit

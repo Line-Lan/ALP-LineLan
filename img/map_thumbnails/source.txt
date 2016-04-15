@@ -1,0 +1,11 @@
+These Half Life and Counter-strike images are taken from the HLStats distribution, which were taken from the HLMaps project on Sourceforge.
+
+SQUERY-Most Maps
+http://www.squery.com
+
+HLMaps
+http://hlmaps.sourceforge.net
+
+HLStats
+http://www.hlstats.org
+

@@ -1,0 +1,29 @@
+mp/ctf1	ctf1	Imperial Drop Zone
+mp/ctf2	ctf2	Hoth Wasteland
+mp/ctf3	ctf3	Yavin Hilltops
+mp/ctf4	ctf4	Coruscant Streets
+mp/ctf5	ctf5	Factory
+mp/duel1	duel1	Bespin Courtyard
+mp/duel2	duel2	Generator Room
+mp/duel3	duel3	Imperial Shaft
+mp/duel4	duel4	Imperial Control Room
+mp/duel5	duel5	Taspir Landing
+mp/duel6	duel6	Yavin Training Area
+mp/duel7	duel7	Rancor Pit
+mp/duel8	duel8	Abandoned City
+mp/duel9	duel9	Hoth Canyon
+mp/duel10	duel10	Vjun Fuel Processing
+mp/ffa1	ffa1	Vjun Sentinel
+mp/ffa2	ffa2	Korriban Tombs
+mp/ffa3	ffa3	Tatooine City
+mp/ffa4	ffa4	Rift Sanctuary
+mp/ffa5	ffa5	Taspir
+mp/siege_desert	siege_desert	Desert Rescue
+mp/siege_hoth	siege_hoth	Hoth Attack
+mp/siege_korriban	siege_korriban	Korriban Valley
+mp/ctf_bonus1	ctf_bonus1	Rift of Shadows
+mp/duel_bonus1	duel_bonus1	Coruscant
+mp/ffa_bonus1	ffa_bonus1	Gas Mine
+mp/ffa_bonus2	ffa_bonus2	The Fortress
+mp/ffa_bonus3	ffa_bonus3	Conquest of Byss
+mp/ffa_bonus4	ffa_bonus4	Ord Mantell Canyon

@@ -1,0 +1,54 @@
+beavercreek	BattleCreek	Battle Creek
+beavercreek	BattleCreek-a	Battle Creek
+beavercreek	BattleCreek-b	Battle Creek
+bloodgulch	BloodGulch	Blood Gulch
+bloodgulch	BloodGulch-a	Blood Gulch
+bloodgulch	BloodGulch-b	Blood Gulch
+bloodgulch	BloodGulch-c	Blood Gulch
+boardingaction	BoardingAction	Boarding Action
+boardingaction	BoardingAction-a	Boarding Action
+chillout	Chillout	Chill Out
+chillout	Chillout-a	Chill Out
+damnation	Damnation	Damnation
+damnation	Damnation-a	Damnation
+dangercanyon	DangerCanyon	Danger Canyon
+dangercanyon	DangerCanyon-a	Danger Canyon
+deathisland	DeathIsland	Death Island
+deathisland	DeathIsland-a	Death Island
+deathisland	DeathIsland-b	Death Island
+deathisland	DeathIsland-c	Death Island
+derelict	Derelict	Derelict
+derelict	Derelict-a	Derelict
+derelict	Derelict-b	Derelict
+gephyrophobia	Gephyrophobia	Gephyrophobia
+gephyrophobia	Gephyrophobia-a	Gephyrophobia
+gephyrophobia	Gephyrophobia-b	Gephyrophobia
+gephyrophobia	Gephyrophobia-c	Gephyrophobia
+hangemhigh	HangEmHigh	Hang 'Em High
+hangemhigh	HangEmHigh-a	Hang 'Em High
+icefields	IceFields	Ice Fields
+icefields	IceFields-a	Ice Fields
+icefields	IceFields-b	Ice Fields
+icefields	IceFields-c	Ice Fields
+infinity	Infinity	Infinity
+infinity	Infinity-a	Infinity
+infinity	Infinity-b	Infinity
+longest	Longest	Longest
+longest	Longest-a	Longest
+longest	Longest-b	Longest
+prisoner	Prisoner	Prisoner
+prisoner	Prisoner-a	Prisoner
+putput	ChironTL34	Chiron TL34
+putput	ChironTL34-a	Chiron TL34
+putput	ChironTL34-b	Chiron TL34
+ratrace	RatRace	Rat Race
+ratrace	RatRace-a	Rat Race
+ratrace	RatRace-b	Rat Race
+sidewinder	Sidewinder	Sidewinder
+sidewinder	Sidewinder-a	Sidewinder
+sidewinder	Sidewinder-b	Sidewinder
+timberland	Timberland	Timberland
+timberland	Timberland-a	Timberland
+timberland	Timberland-b	Timberland
+wizard	Wizard	Wizard
+wizard	Wizard-a	Wizard

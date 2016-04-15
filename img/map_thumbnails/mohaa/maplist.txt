@@ -1,0 +1,200 @@
+mohdm1	mohdm1	Southern France
+mohdm1	mohdm1-a	Southern France
+mohdm1	mohdm1-b	Southern France
+mohdm1	mohdm1-c	Southern France
+mohdm1	mohdm1-d	Southern France
+dm/mohdm1	mohdm1	Southern France
+dm/mohdm1	mohdm1-a	Southern France
+dm/mohdm1	mohdm1-b	Southern France
+dm/mohdm1	mohdm1-c	Southern France
+dm/mohdm1	mohdm1-d	Southern France
+mohdm2	mohdm2	Destroyed Village
+mohdm2	mohdm2-a	Destroyed Village
+mohdm2	mohdm2-b	Destroyed Village
+mohdm2	mohdm2-c	Destroyed Village
+dm/mohdm2	mohdm2	Destroyed Village
+dm/mohdm2	mohdm2-a	Destroyed Village
+dm/mohdm2	mohdm2-b	Destroyed Village
+dm/mohdm2	mohdm2-c	Destroyed Village
+mohdm3	mohdm3	Remagen
+mohdm3	mohdm3-a	Remagen
+mohdm3	mohdm3-b	Remagen
+mohdm3	mohdm3-c	Remagen
+mohdm3	mohdm3-d	Remagen
+dm/mohdm3	mohdm3	Remagen
+dm/mohdm3	mohdm3-a	Remagen
+dm/mohdm3	mohdm3-b	Remagen
+dm/mohdm3	mohdm3-c	Remagen
+dm/mohdm3	mohdm3-d	Remagen
+mohdm4	mohdm4	The Crossroads
+mohdm4	mohdm4-a	The Crossroads
+mohdm4	mohdm4-b	The Crossroads
+mohdm4	mohdm4-c	The Crossroads
+mohdm4	mohdm4-d	The Crossroads
+dm/mohdm4	mohdm4	The Crossroads
+dm/mohdm4	mohdm4-a	The Crossroads
+dm/mohdm4	mohdm4-b	The Crossroads
+dm/mohdm4	mohdm4-c	The Crossroads
+dm/mohdm4	mohdm4-d	The Crossroads
+mohdm5	mohdm5	Snowy Park
+mohdm5	mohdm5-a	Snowy Park
+mohdm5	mohdm5-b	Snowy Park
+mohdm5	mohdm5-c	Snowy Park
+mohdm5	mohdm5-d	Snowy Park
+dm/mohdm5	mohdm5	Snowy Park
+dm/mohdm5	mohdm5-a	Snowy Park
+dm/mohdm5	mohdm5-b	Snowy Park
+dm/mohdm5	mohdm5-c	Snowy Park
+dm/mohdm5	mohdm5-d	Snowy Park
+mohdm6	mohdm6	Stalingrad
+mohdm6	mohdm6-a	Stalingrad
+mohdm6	mohdm6-b	Stalingrad
+mohdm6	mohdm6-c	Stalingrad
+dm/mohdm6	mohdm6	Stalingrad
+dm/mohdm6	mohdm6-a	Stalingrad
+dm/mohdm6	mohdm6-b	Stalingrad
+dm/mohdm6	mohdm6-c	Stalingrad
+mohdm7	mohdm7	Algiers
+mohdm7	mohdm7-a	Algiers
+mohdm7	mohdm7-b	Algiers
+mohdm7	mohdm7-c	Algiers
+mohdm7	mohdm7-d	Algiers
+dm/mohdm7	mohdm7	Algiers
+dm/mohdm7	mohdm7-a	Algiers
+dm/mohdm7	mohdm7-b	Algiers
+dm/mohdm7	mohdm7-c	Algiers
+dm/mohdm7	mohdm7-d	Algiers
+obj_team1	team1	The Hunt
+obj_team1	team1-a	The Hunt
+obj_team1	team1-b	The Hunt
+obj_team1	team1-c	The Hunt
+obj_team1	team1-d	The Hunt
+obj/obj_team1	team1	The Hunt
+obj/obj_team1	team1-a	The Hunt
+obj/obj_team1	team1-b	The Hunt
+obj/obj_team1	team1-c	The Hunt
+obj/obj_team1	team1-d	The Hunt
+obj_team2	team2	V2 Rocket Facility
+obj_team2	team2-a	V2 Rocket Facility
+obj_team2	team2-b	V2 Rocket Facility
+obj_team2	team2-c	V2 Rocket Facility
+obj/obj_team2	team2	V2 Rocket Facility
+obj/obj_team2	team2-a	V2 Rocket Facility
+obj/obj_team2	team2-b	V2 Rocket Facility
+obj/obj_team2	team2-c	V2 Rocket Facility
+obj_team3	team3	Omaha Beach
+obj_team3	team3-a	Omaha Beach
+obj_team3	team3-b	Omaha Beach
+obj_team3	team3-c	Omaha Beach
+obj/obj_team3	team3	Omaha Beach
+obj/obj_team3	team3-a	Omaha Beach
+obj/obj_team3	team3-b	Omaha Beach
+obj/obj_team3	team3-c	Omaha Beach
+obj_team4	mohdm4	The Crossroads
+obj_team4	mohdm4-a	The Bridge
+obj_team4	mohdm4-b	The Bridge
+obj_team4	mohdm4-c	The Bridge
+obj_team4	mohdm4-d	The Bridge
+obj/obj_team4	mohdm4	The Crossroads
+obj/obj_team4	mohdm4-a	The Bridge
+obj/obj_team4	mohdm4-b	The Bridge
+obj/obj_team4	mohdm4-c	The Bridge
+obj/obj_team4	mohdm4-d	The Bridge
+mp_bazaar_dm	mp_bazaar_dm	Bazaar
+mp_bazaar_dm	mp_bazaar_dm-a	Bazaar
+mp_bazaar_dm	mp_bazaar_dm-b	Bazaar
+dm/mp_bazaar_dm	mp_bazaar_dm	Bazaar
+dm/mp_bazaar_dm	mp_bazaar_dm-a	Bazaar
+dm/mp_bazaar_dm	mp_bazaar_dm-b	Bazaar
+mp_ardennes_tow	mp_ardennes_tow	Ardennes
+mp_ardennes_tow	mp_ardennes_tow-a	Ardennes
+mp_ardennes_tow	mp_ardennes_tow-b	Ardennes
+mp_ardennes_tow	mp_ardennes_tow-c	Ardennes
+obj/mp_ardennes_tow	mp_ardennes_tow	Ardennes
+obj/mp_ardennes_tow	mp_ardennes_tow-a	Ardennes
+obj/mp_ardennes_tow	mp_ardennes_tow-b	Ardennes
+obj/mp_ardennes_tow	mp_ardennes_tow-c	Ardennes
+mp_bahnhof_dm	mp_bahnhof_dm	Bahnhof
+mp_bahnhof_dm	mp_bahnhof_dm-a	Bahnhof
+mp_bahnhof_dm	mp_bahnhof_dm-b	Bahnhof
+mp_bahnhof_dm	mp_bahnhof_dm-c	Bahnhof
+dm/mp_bahnhof_dm	mp_bahnhof_dm	Bahnhof
+dm/mp_bahnhof_dm	mp_bahnhof_dm-a	Bahnhof
+dm/mp_bahnhof_dm	mp_bahnhof_dm-b	Bahnhof
+dm/mp_bahnhof_dm	mp_bahnhof_dm-c	Bahnhof
+mp_berlin_tow	mp_berlin_tow	Berlin
+mp_berlin_tow	mp_berlin_tow-a	Berlin
+mp_berlin_tow	mp_berlin_tow-b	Berlin
+obj/mp_berlin_tow	mp_berlin_tow	Berlin
+obj/mp_berlin_tow	mp_berlin_tow-a	Berlin
+obj/mp_berlin_tow	mp_berlin_tow-b	Berlin
+mp_brest_dm	mp_brest_dm	Brest
+mp_brest_dm	mp_brest_dm-a	Brest
+mp_brest_dm	mp_brest_dm-b	Brest
+mp_brest_dm	mp_brest_dm-c	Brest
+dm/mp_brest_dm	mp_brest_dm	Brest
+dm/mp_brest_dm	mp_brest_dm-a	Brest
+dm/mp_brest_dm	mp_brest_dm-b	Brest
+dm/mp_brest_dm	mp_brest_dm-c	Brest
+mp_druckkammern_tow	mp_druckkammern_tow	Druckkammern
+mp_druckkammern_tow	mp_druckkammern_tow-a	Druckkammern
+mp_druckkammern_tow	mp_druckkammern_tow-b	Druckkammern
+obj/mp_druckkammern_tow	mp_druckkammern_tow	Druckkammern
+obj/mp_druckkammern_tow	mp_druckkammern_tow-a	Druckkammern
+obj/mp_druckkammern_tow	mp_druckkammern_tow-b	Druckkammern
+mp_flughafen_tow	mp_flughafen_tow	Flughafen
+mp_flughafen_tow	mp_flughafen_tow-a	Flughafen
+mp_flughafen_tow	mp_flughafen_tow-b	Flughafen
+obj/mp_flughafen_tow	mp_flughafen_tow	Flughafen
+obj/mp_flughafen_tow	mp_flughafen_tow-a	Flughafen
+obj/mp_flughafen_tow	mp_flughafen_tow-b	Flughafen
+mp_gewitter_dm	mp_gewitter_dm	Gewitter
+mp_gewitter_dm	mp_gewitter_dm-a	Gewitter
+mp_gewitter_dm	mp_gewitter_dm-b	Gewitter
+mp_gewitter_dm	mp_gewitter_dm-c	Gewitter
+dm/mp_gewitter_dm	mp_gewitter_dm	Gewitter
+dm/mp_gewitter_dm	mp_gewitter_dm-a	Gewitter
+dm/mp_gewitter_dm	mp_gewitter_dm-b	Gewitter
+dm/mp_gewitter_dm	mp_gewitter_dm-c	Gewitter
+mp_holland_dm	mp_holland_dm	Holland
+mp_holland_dm	mp_holland_dm-a	Holland
+mp_holland_dm	mp_holland_dm-b	Holland
+mp_holland_dm	mp_holland_dm-c	Holland
+dm/mp_holland_dm	mp_holland_dm	Holland
+dm/mp_holland_dm	mp_holland_dm-a	Holland
+dm/mp_holland_dm	mp_holland_dm-b	Holland
+dm/mp_holland_dm	mp_holland_dm-c	Holland
+mp_malta_dm	mp_malta_dm	Malta
+mp_malta_dm	mp_malta_dm-a	Malta
+mp_malta_dm	mp_malta_dm-b	Malta
+mp_malta_dm	mp_malta_dm-c	Malta
+mp_malta_dm	mp_malta_dm-d	Malta
+dm/mp_malta_dm	mp_malta_dm	Malta
+dm/mp_malta_dm	mp_malta_dm-a	Malta
+dm/mp_malta_dm	mp_malta_dm-b	Malta
+dm/mp_malta_dm	mp_malta_dm-c	Malta
+dm/mp_malta_dm	mp_malta_dm-d	Malta
+mp_stadt_dm	mp_stadt_dm	Stadt
+mp_stadt_dm	mp_stadt_dm-a	Stadt
+mp_stadt_dm	mp_stadt_dm-b	Stadt
+mp_stadt_dm	mp_stadt_dm-c	Stadt
+dm/mp_stadt_dm	mp_stadt_dm	Stadt
+dm/mp_stadt_dm	mp_stadt_dm-a	Stadt
+dm/mp_stadt_dm	mp_stadt_dm-b	Stadt
+dm/mp_stadt_dm	mp_stadt_dm-c	Stadt
+mp_unterseite_dm	mp_unterseite_dm	Unterseite
+mp_unterseite_dm	mp_unterseite_dm-a	Unterseite
+mp_unterseite_dm	mp_unterseite_dm-b	Unterseite
+mp_unterseite_dm	mp_unterseite_dm-c	Unterseite
+dm/mp_unterseite_dm	mp_unterseite_dm	Unterseite
+dm/mp_unterseite_dm	mp_unterseite_dm-a	Unterseite
+dm/mp_unterseite_dm	mp_unterseite_dm-b	Unterseite
+dm/mp_unterseite_dm	mp_unterseite_dm-c	Unterseite
+mp_verschneit_dm	mp_verschneit_dm	Verschneit
+mp_verschneit_dm	mp_verschneit_dm-a	Verschneit
+mp_verschneit_dm	mp_verschneit_dm-b	Verschneit
+mp_verschneit_dm	mp_verschneit_dm-c	Verschneit
+dm/mp_verschneit_dm	mp_verschneit_dm	Verschneit
+dm/mp_verschneit_dm	mp_verschneit_dm-a	Verschneit
+dm/mp_verschneit_dm	mp_verschneit_dm-b	Verschneit
+dm/mp_verschneit_dm	mp_verschneit_dm-c	Verschneit

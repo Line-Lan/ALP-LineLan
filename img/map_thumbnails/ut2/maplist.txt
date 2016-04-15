@@ -1,0 +1,141 @@
+CTF-Chrome	CTF-Chrome	Chrome
+CTF-Chrome	CTF-Chrome-a	Chrome
+CTF-Chrome	CTF-Chrome-b	Chrome
+CTF-Chrome	CTF-Chrome-c	Chrome
+CTF-Citadel	CTF-Citadel	Citadel
+CTF-Citadel	CTF-Citadel-a	Citadel
+CTF-Citadel	CTF-Citadel-b	Citadel
+CTF-Citadel	CTF-Citadel-c	Citadel
+CTF-December	CTF-December	December
+CTF-December	CTF-December-a	December
+CTF-December	CTF-December-b	December
+CTF-Face3	CTF-Face3	Facing Worlds 3
+CTF-Face3	CTF-Face3-a	Facing Worlds 3
+CTF-Face3	CTF-Face3-b	Facing Worlds 3
+CTF-Geothermal	CTF-Geothermal	Geothermal
+CTF-Geothermal	CTF-Geothermal-a	Geothermal
+CTF-Geothermal	CTF-Geothermal-b	Geothermal
+CTF-Lostfaith	CTF-Lostfaith	Lost-Faith
+CTF-Lostfaith	CTF-Lostfaith-a	Lost-Faith
+CTF-Lostfaith	CTF-Lostfaith-b	Lost-Faith
+CTF-Magma	CTF-Magma	Magma
+CTF-Magma	CTF-Magma-a	Magma
+CTF-Magma	CTF-Magma-b	Magma
+CTF-Magma	CTF-Magma-c	Magma
+CTF-Maul	CTF-Maul	Maul
+CTF-Maul	CTF-Maul-a	Maul
+CTF-Maul	CTF-Maul-b	Maul
+CTF-Maul	CTF-Maul-c	Maul
+CTF-Orbital2	CTF-Orbital2	Orbital2
+CTF-Orbital2	CTF-Orbital2-a	Orbital2
+CTF-Orbital2	CTF-Orbital2-b	Orbital2
+CTF-Orbital2	CTF-Orbital2-c	Orbital2
+BR-Anubis	BR-Anubis	Temple of Anubis
+BR-Anubis	BR-Anubis-a	Temple of Anubis
+BR-Anubis	BR-Anubis-b	Temple of Anubis
+BR-Anubis	BR-Anubis-c	Temple of Anubis
+BR-Bifrost	BR-Bifrost	Bifrost Bases
+BR-Bifrost	BR-Bifrost-a	Bifrost Bases
+BR-Bifrost	BR-Bifrost-b	Bifrost Bases
+BR-Bifrost	BR-Bifrost-c	Bifrost Bases
+BR-Disclosure	BR-Disclosure	Disclosure
+BR-Disclosure	BR-Disclosure-a	Disclosure
+BR-Disclosure	BR-Disclosure-b	Disclosure
+BR-IceFields	BR-IceFields	Ice Fields
+BR-IceFields	BR-IceFields-a	Ice Fields
+BR-IceFields	BR-IceFields-b	Ice Fields
+BR-Skyline	BR-Skyline	Skyline
+BR-Skyline	BR-Skyline-a	Skyline
+BR-Slaughterhouse	BR-Slaughterhouse	Slaughterhouse
+BR-Slaughterhouse	BR-Slaughterhouse-a	Slaughterhouse
+BR-Slaughterhouse	BR-Slaughterhouse-b	Slaughterhouse
+BR-Slaughterhouse	BR-Slaughterhouse-c	Slaughterhouse
+BR-Slaughterhouse	BR-Slaughterhouse-d	Slaughterhouse
+BR-TwinTombs	BR-TwinTombs	Twin Tombs
+BR-TwinTombs	BR-TwinTombs-a	Twin Tombs
+BR-TwinTombs	BR-TwinTombs-b	Twin Tombs
+DM-Antalus	DM-Antalus	Antalus
+DM-Antalus	DM-Antalus-a	Antalus
+DM-Antalus	DM-Antalus-b	Antalus
+DM-Antalus	DM-Antalus-c	Antalus
+DM-Asbestos	DM-Asbestos	Asbestos
+DM-Asbestos	DM-Asbestos-a	Asbestos
+DM-Asbestos	DM-Asbestos-b	Asbestos
+DM-Asbestos	DM-Asbestos-c	Asbestos
+DM-Compressed	DM-Compressed	Compressed
+DM-Compressed	DM-Compressed-a	Compressed
+DM-Compressed	DM-Compressed-b	Compressed
+DM-Compressed	DM-Compressed-c	Compressed
+DM-Compressed	DM-Compressed-d	Compressed
+DM-Curse3	DM-Curse3	Curse3
+DM-Curse3	DM-Curse3-a	Curse3
+DM-Curse3	DM-Curse3-b	Curse3
+DM-Curse3	DM-Curse3-c	Curse3
+DM-Curse3	DM-Curse3-d	Curse3
+DM-Flux2	DM-Flux2	Flux 2
+DM-Flux2	DM-Flux2-a	Flux 2
+DM-Flux2	DM-Flux2-b	Flux 2
+DM-Flux2	DM-Flux2-c	Flux 2
+DM-Gael	DM-Gael	Gael
+DM-Gael	DM-Gael-a	Gael
+DM-Gael	DM-Gael-b	Gael
+DM-Gael	DM-Gael-c	Gael
+DM-Inferno	DM-Inferno	Inferno
+DM-Inferno	DM-Inferno-a	Inferno
+DM-Inferno	DM-Inferno-b	Inferno
+DM-Inferno	DM-Inferno-c	Inferno
+DM-Insidious	DM-Insidious	Insidious
+DM-Insidious	DM-Insidious-a	Insidious
+DM-Insidious	DM-Insidious-b	Insidious
+DM-Insidious	DM-Insidious-c	Insidious
+DM-Leviathan	DM-Leviathan	Leviathan
+DM-Leviathan	DM-Leviathan-a	Leviathan
+DM-Leviathan	DM-Leviathan-b	Leviathan
+DM-Oceanic	DM-Oceanic	Oceanic
+DM-Oceanic	DM-Oceanic-a	Oceanic
+DM-Oceanic	DM-Oceanic-b	Oceanic
+DM-Oceanic	DM-Oceanic-c	Oceanic
+DM-Phobos2	DM-Phobos2	Phobos Moon 2
+DM-Phobos2	DM-Phobos2-a	Phobos Moon 2
+DM-Phobos2	DM-Phobos2-b	Phobos Moon 2
+DM-Phobos2	DM-Phobos2-c	Phobos Moon 2
+DM-Plunge	DM-Plunge	Plunge
+DM-Plunge	DM-Plunge-a	Plunge
+DM-Plunge	DM-Plunge-b	Plunge
+DM-Plunge	DM-Plunge-c	Plunge
+DM-Serpentine	DM-Serpentine	Serpentine
+DM-Serpentine	DM-Serpentine-a	Serpentine
+DM-Serpentine	DM-Serpentine-b	Serpentine
+DM-TokaraForest	DM-TokaraForest	Tokara Forest
+DM-TokaraForest	DM-TokaraForest-a	Tokara Forest
+DM-TokaraForest	DM-TokaraForest-b	Tokara Forest
+DM-TokaraForest	DM-TokaraForest-c	Tokara Forest
+DM-TrainingDay	DM-TrainingDay	Training Day
+DM-TrainingDay	DM-TrainingDay-a	Training Day
+DOM-Core	DOM-Core	Core
+DOM-Core	DOM-Core-a	Core
+DOM-Core	DOM-Core-b	Core
+DOM-Core	DOM-Core-c	Core
+DOM-Core	DOM-Core-d	Core
+DOM-Core	DOM-Core-e	Core
+DOM-Ruination	DOM-Ruination	Ruination
+DOM-Ruination	DOM-Ruination-a	Ruination
+DOM-Ruination	DOM-Ruination-b	Ruination
+DOM-Ruination	DOM-Ruination-c	Ruination
+DOM-ScorchedEarth	DOM-ScorchedEarth	Scorched Earth
+DOM-ScorchedEarth	DOM-ScorchedEarth-a	Scorched Earth
+DOM-ScorchedEarth	DOM-ScorchedEarth-b	Scorched Earth
+DOM-ScorchedEarth	DOM-ScorchedEarth-c	Scorched Earth
+DOM-SepukkuGorge	DOM-SepukkuGorge	Sepukku Gorge
+DOM-SepukkuGorge	DOM-SepukkuGorge-a	Sepukku Gorge
+DOM-SepukkuGorge	DOM-SepukkuGorge-b	Sepukku Gorge
+DOM-SepukkuGorge	DOM-SepukkuGorge-c	Sepukku Gorge
+DOM-SepukkuGorge	DOM-SepukkuGorge-d	Sepukku Gorge
+DOM-Suntemple	DOM-Suntemple	Sun Temple
+DOM-Suntemple	DOM-Suntemple-a	Sun Temple
+DOM-Suntemple	DOM-Suntemple-b	Sun Temple
+DOM-Suntemple	DOM-Suntemple-c	Sun Temple
+DOM-OutRigger	DOM-OutRigger	Outrigger
+DOM-OutRigger	DOM-OutRigger-a	Outrigger
+DOM-OutRigger	DOM-OutRigger-b	Outrigger
+DOM-OutRigger	DOM-OutRigger-c	Outrigger
