@@ -57,7 +57,7 @@ class ET extends q3a
      }
 
     while(preg_match("/\^./", $var)) {
-   	$var = preg_replace("#\^(.)(.*)$#e", "'<span class=\"gsqueryet-'.strtolower('\\1').'\">'.'\\2'", $var);
+   	$var = preg_replace("/#\^(.)(.*)$#/", "'<span class=\"gsqueryet-'.strtolower('\\1').'\">'.'\\2'", $var);
    //$var = preg_replace("#\^(.)(.*)$#Usi", "<span class=\"gsqueryet-$1\">$2", $var);
 	$num_tags++;
      }

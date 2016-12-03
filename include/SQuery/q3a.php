@@ -151,7 +151,7 @@ class q3a extends gsQuery
       $this->gamename="steforce";
     }  
 // for Star Trek Elite Force 2
-	if(eregi("/Elite Force II/i", $this->gameversion)) {
+	if(preg_match("/Elite Force II/i", $this->gameversion)) {
       $this->gamename="steforce2";
     }  
 // for COD: United Offensive

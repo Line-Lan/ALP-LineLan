@@ -324,7 +324,7 @@ function music_upload_file() {
     $uploaded_name = str_replace($bad_chars,"",$uploaded_name);
     // TODO: add check for free space - maybe check free space before display upload file section?
     // TODO: log the userid that uploads the song
-   	 if(eregi(".mp3$",$uploaded_name)) {
+   	 if(preg_match("/.mp3$/i",$uploaded_name)) {
     	    // die("Only mp3 files accepted");
 			//echo $$_FILES['userfile']['tmp_name'];
 			//echo "<br />";
@@ -396,7 +396,7 @@ function music_listen() {
     $stream_id = rand(1,99999999);
     $dbc->query("UPDATE `master` SET `music_stream_id` = '".$stream_id."'");
 	// generate pls file response
-    $alp_root = eregi_replace('/music.php$','', get_script_name());
+    $alp_root = preg_replace('/music.php$/i','', get_script_name());
     $link = 'http://'.$_SERVER['SERVER_NAME'].$alp_root.'/music/phpcast.php?stream_id='.$stream_id;
     $pls = "[playlist]\r\n".
     "NumberOfEntries=1\r\n".
@@ -432,7 +432,7 @@ function music_scan_now($dir = MUSIC_DIR) {
             {
                 // if it's a read file ( no shortcut / directory )
                 // and its name ends with .mp3 (case insensitive)
-                if(is_file($dir.'/'.$file) && eregi(".mp3",strtolower($file)))
+                if(is_file($dir.'/'.$file) && preg_match("/.mp3/i",strtolower($file)))
                 {
                     // if scan finds an "illegally named" mp3 it fixes it up
                     $bad_chars = array(",","'","\"","?","&","*","$","#","@","%","^","!");

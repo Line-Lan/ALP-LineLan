@@ -22,7 +22,7 @@ class universal extends form {
 	var $_related_links;
 	var $_delmod_query;
 		
-	function universal($name, $singular, $security)
+	function __construct($name, $singular, $security)
     {
 		$this->_name     = $name;
 		$this->_singular = $singular;
