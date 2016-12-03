@@ -59,7 +59,7 @@ class armyGame extends gameSpy
     $this->online = TRUE;
 
     // xxx: not a nice way 
-   if (ereg("^(.*)(\\\\leader_0.*)$", $result, $matches))
+   if (preg_match("/^(.*)(\\\\leader_0.*)$/", $result, $matches))
    {	
     
 

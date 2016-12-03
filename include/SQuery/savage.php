@@ -119,12 +119,12 @@ if (isset($playerstring))
 function htmlize($var) 
   {
     $var = htmlspecialchars($var);
-    while(ereg('\^([0-9][0-9][0-9])', $var)) {
+    while(preg_match('/\^([0-9][0-9][0-9])/', $var)) {
      
 	 $var = preg_replace("#\^([0-9][0-9][0-9])(.*)$#Usi", "$2", $var);
 	      
     }
-    while(ereg('\^([a-z])', $var)) {
+    while(preg_match('/\^([a-z])/', $var)) {
      
 	 $var = preg_replace("#\^([a-z])(.*)$#Usi", "$2", $var);
 	      

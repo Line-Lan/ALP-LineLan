@@ -55,7 +55,7 @@ class unreal extends gameSpy
       return FALSE;
     }  
   
-  while(ereg("queryid", $response)) {
+  while(preg_match("/queryid/", $response)) {
       $response=preg_replace("#[\\\]queryid[\\\](\S{1,2})\.(\S{1})#","",$response);
      }
   
@@ -133,7 +133,7 @@ return $retval;
 	$result .= fread($socket,128);
         $socketstatus = socket_get_status($socket);
       } while ($socketstatus["unread_bytes"]);
-       }while (!eregi("final\\\\",$result));
+       }while (!preg_match("/final\\\\/i",$result));
       fclose($socket);
       if(!isset($result)) {
 	$this->debug["Command send " . $command]="No response from game server received";

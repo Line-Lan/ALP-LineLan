@@ -109,39 +109,39 @@ class mohaa extends gsQuery
     }
 
     // for MoHAA
-    if(eregi("Medal of Honor", $this->gameversion)) {
+    if(preg_match("/Medal of Honor/i", $this->gameversion)) {
       $this->gamename="mohaa";
     }
    // for Castle Wolfenstein
-	if(eregi("Wolf", $this->gameversion)) {
+	if(preg_match("/Wolf/i", $this->gameversion)) {
       $this->gamename="rtcw";
     }
    // for Castle Wolfenstein Enemy Territory
-	if(eregi("ET", $this->gameversion)) {
+	if(preg_match("/ET/i", $this->gameversion)) {
       $this->gamename="rtcw-et";
     }
    // for Jedi Academy 2
-	if(eregi("JK2MP", $this->gameversion)) {
+	if(preg_match("/JK2MP/i", $this->gameversion)) {
       $this->gamename="jk2";
     }
    // for Jedi Academy 3
-	if(eregi("JAmp", $this->gameversion)) {
+	if(preg_match("/JAmp/i", $this->gameversion)) {
       $this->gamename="jk3";
     }
    // for Quake 3
-	if(eregi("Q3", $this->gameversion)) {
+	if(preg_match("/Q3/i", $this->gameversion)) {
       $this->gamename="q3";
     }    
    // for Soldier of Fortune II
-	if(eregi("SOF2MP", $this->gameversion)) {
+	if(preg_match("/SOF2MP/i", $this->gameversion)) {
       $this->gamename="sof2mp";
     }    
 // for Star Trek Elite Force
-	if(eregi("ST:V HM", $this->gameversion)) {
+	if(preg_match("/ST:V HM/i", $this->gameversion)) {
       $this->gamename="steforce";
     }  
 // for Star Trek Elite Force 2
-	if(eregi("Elite Force II", $this->gameversion)) {
+	if(preg_match("/Elite Force II/i", $this->gameversion)) {
       $this->gamename="steforce2";
     }  
 

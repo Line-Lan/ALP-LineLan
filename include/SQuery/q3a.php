@@ -28,7 +28,7 @@ defined('SQUERY_INVOKED') or die('No access.');
 
 include_once($libpath."gsQuery.php");
 
-if (eregi("q3a.php", $_SERVER['PHP_SELF'])) {
+if (preg_match("/q3a.php/i", $_SERVER['PHP_SELF'])) {
   echo "File present. Version 3.8";
 }
 
@@ -114,52 +114,52 @@ class q3a extends gsQuery
       }
     }
    // for Medal of Honor:Pacific Assault
-	if(eregi("Pacific Assault", $this->gameversion)) {
+	if(preg_match("/Pacific Assault/i", $this->gameversion)) {
       $this->gamename="moh-pa";
       $this->gameversion=str_replace("Medal of Honor Pacific Assault","MOH:PA",$this->gameversion);
     }  
     // for MoHAA
-    elseif(eregi("Medal of Honor", $this->gameversion)) {
+    elseif(preg_match("/Medal of Honor/i", $this->gameversion)) {
       $this->gamename="mohaa";
     }
    // for Castle Wolfenstein
-	if(eregi("Wolf", $this->gameversion)) {
+	if(preg_match("/Wolf/i", $this->gameversion)) {
       $this->gamename="rtcw";
     }
    // for Castle Wolfenstein Enemy Territory
-	if(eregi("ET", $this->gameversion)) {
+	if(preg_match("/ET/i", $this->gameversion)) {
       $this->gamename="rtcw-et";
     }
    // for Jedi Academy 2
-	if(eregi("JK2MP", $this->gameversion)) {
+	if(preg_match("/JK2MP/i", $this->gameversion)) {
       $this->gamename="jk2";
     }
    // for Jedi Academy 3
-	if(eregi("JAmp", $this->gameversion)) {
+	if(preg_match("/JAmp/i", $this->gameversion)) {
       $this->gamename="jk3";
     }
    // for Quake 3
-	if(eregi("Q3", $this->gameversion)) {
+	if(preg_match("/Q3/i", $this->gameversion)) {
       $this->gamename="q3";
     }    
    // for Soldier of Fortune II
-	if(eregi("SOF2MP", $this->gameversion)) {
+	if(preg_match("/SOF2MP/i", $this->gameversion)) {
       $this->gamename="sof2mp";
     }    
 // for Star Trek Elite Force
-	if(eregi("ST:V HM", $this->gameversion)) {
+	if(preg_match("/ST:V HM/i", $this->gameversion)) {
       $this->gamename="steforce";
     }  
 // for Star Trek Elite Force 2
-	if(eregi("Elite Force II", $this->gameversion)) {
+	if(eregi("/Elite Force II/i", $this->gameversion)) {
       $this->gamename="steforce2";
     }  
 // for COD: United Offensive
-	if(eregi("CoD:United Offensive", $this->gamename)) {
+	if(preg_match("/CoD:United Offensive/i", $this->gamename)) {
       $this->gamename="cod-uo";
     }  
  // for Call of Duty 2
-if(eregi("Call of Duty 2", $this->gamename)) {
+if(preg_match("Call of Duty 2", $this->gamename)) {
 $this->gamename="cod2";
 } 
     if(!empty($this->maplist)) {
@@ -217,9 +217,9 @@ $this->gamename="cod2";
   function htmlize($var) 
   {
     $var = htmlspecialchars($var);
-    while(ereg('\^([0-9])', $var)) {
+    while(preg_match('/\^([0-9])/', $var)) {
       foreach(array('black', 'red', 'darkgreen', 'yellow', 'blue', 'cyan', 'pink', 'red-night', 'blue-night', 'white') as $num_color => $name_color) {
-	if (ereg('\^([0-9])(.*)\^([0-9])', $var)) {
+	if (preg_match('/\^([0-9])(.*)\^([0-9])/', $var)) {
 	  $var = preg_replace("#\^".$num_color."(.*)\^([0-9])#Usi", "<span class=\"gsquery-".$name_color."\">$1</span>^$2", $var);
 	} else {
 	  $var = preg_replace("#\^".$num_color."(.*)$#Usi", "<span class=\"gsquery-".$name_color."\">$1</span>", $var);

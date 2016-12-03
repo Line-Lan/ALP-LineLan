@@ -191,9 +191,9 @@ $this->rules[$temp[$i]]=$temp[++$i];
 function htmlize($var) 
   {
     $var = htmlspecialchars($var);
-    while(ereg('\^([0-9])', $var)) {
+    while(preg_match('/\^([0-9])/', $var)) {
       foreach(array('orange', 'red', 'darkgreen', 'yellow', 'blue', 'cyan', 'pink', 'white', 'black', 'yellow') as $num_color => $name_color) {
-	if (ereg('\^([0-9])(.*)\^([0-9])', $var)) {
+	if (preg_match('/\^([0-9])(.*)\^([0-9])/', $var)) {
 	  $var = preg_replace("#\^".$num_color."(.*)\^([0-9])#Usi", "<span class=\"gsquery-".$name_color."\">$1</span>^$2", $var);
 	} else {
 	  $var = preg_replace("#\^".$num_color."(.*)$#Usi", "<span class=\"gsquery-".$name_color."\">$1</span>", $var);

@@ -84,7 +84,7 @@ class simracer extends gameSpy
     }
 
     $this->gamename = $data["gamename"];
-    if(eregi("nsr", $this->gamename)) $this->gamename="simracer";
+    if(preg_match("/nsr/i", $this->gamename)) $this->gamename="simracer";
     
     $this->hostport = $data["hostport"];
     $this->gameversion = $data["gamever"];

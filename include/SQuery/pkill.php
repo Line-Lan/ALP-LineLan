@@ -90,11 +90,11 @@ return $retval;
     $var = htmlspecialchars($var);
  
   // preprocess special case: two carets next to each other.
-   while(ereg("\#\#", $var)) {
+   while(preg_match("/\#\#/", $var)) {
       	$var = preg_replace("#\#\#(.*)$#Usi", "@!c!@#$1", $var);
      }
     
-    while(ereg("\#.", $var)) {
+    while(preg_match("/\#./", $var)) {
    	$var = preg_replace("#\#(.)(.*)$#Usi", "<span class=\"gsquery-$1\">$2", $var);
 	$num_tags++;
      }

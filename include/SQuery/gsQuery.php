@@ -206,9 +206,9 @@ class gsQuery
    * @param address address of the server to query
    * @param queryport the queryport of the server
    */
-  function gsQuery($address, $queryport)
+  function __construct($address, $queryport)
   {
-    $this->version = ereg_replace("[^0-9\\.]", "", "\$Revision: 1.4 $");
+    $this->version = preg_replace("/[^0-9\\.]/", "", "\$Revision: 1.4 $");
     
     $this->address = $address;
     $this->queryport = $queryport;
@@ -300,7 +300,7 @@ class gsQuery
       // we should be careful when using eval with supplied arguments
       // e.g.: $port="123); system(\"some nasty stuff\")";
       // normally this should be assured by the caller, but we are in reality
-      if(ereg("^[A-Za-z0-9_-]+$", $protocol) && ereg("^[A-Za-z0-9\\.-]+$", $address) && is_numeric($port)) {
+      if(preg_match("/^[A-Za-z0-9_-]+$/", $protocol) && preg_match("/^[A-Za-z0-9\\.-]+$/", $address) && is_numeric($port)) {
 	include_once($libpath.$protocol .".php");
 	return eval("return new $protocol(\"$address\", $port);");
       } else {
@@ -332,7 +332,7 @@ class gsQuery
     $className = substr($string, 0, $i);
 
     // we should be careful when using eval with supplied arguments
-    if(ereg("^[A-Za-z0-9_-]+$", $className)) {
+    if(preg_match("/^[A-Za-z0-9_-]+$/", $className)) {
       include_once($className .".php");
        return unserialize(base64_decode(substr($string, $i+1)));
      } else {
@@ -374,7 +374,7 @@ class gsQuery
     $result=array();
 
     while(false!==($curfile=readdir($handle))) {
-      if($curfile!="gsQuery.php" && $curfile!="index.php" && ereg("^(.*)\.php$", $curfile, $matches)) {
+      if($curfile!="gsQuery.php" && $curfile!="index.php" && preg_match("/^(.*)\.php$/", $curfile, $matches)) {
 	array_push($result, $matches[1]);
       }
     }

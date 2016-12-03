@@ -155,7 +155,7 @@ $this->playerkeys["time"]=TRUE;
       $this->debug["Command send " . $command]="No challenge rcon received";
       return FALSE;
     }
-    if (!ereg('challenge rcon ([0-9]+)', $challenge_rcon)) {
+    if (!preg_match('/challenge rcon ([0-9]+)/', $challenge_rcon)) {
       $this->debug["Command send " . $command]="No valid challenge rcon received";
       return FALSE;
     }

@@ -196,7 +196,7 @@ do {
   $str=str_replace("\$=","",$str);
   $str=str_replace('$&amp;','',$str);	
     $num_tags = preg_match_all("/\\$(\d)/", $str, $matches);
-    $str = preg_replace("/\\$(\d)/e", "'<span class=\"gsquery-'. \$colors[\$1] .'\">'", $str);
+    $str = preg_replace("/\\$(\d)/", "'<span class=\"gsquery-'. \$colors[\$1] .'\">'", $str);
     
     return str_replace("@!c!@", "\$", $str) . str_repeat("</span>", $num_tags);
   }
