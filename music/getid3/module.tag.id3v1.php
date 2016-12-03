@@ -17,7 +17,7 @@
 class getid3_id3v1
 {
 
-	function getid3_id3v1(&$fd, &$ThisFileInfo) {
+	function __construct(&$fd, &$ThisFileInfo) {
 
 		fseek($fd, -256, SEEK_END);
 		$preid3v1 = fread($fd, 128);

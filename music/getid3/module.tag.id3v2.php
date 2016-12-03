@@ -18,7 +18,7 @@ getid3_lib::IncludeDependency(GETID3_INCLUDEPATH.'module.tag.id3v1.php', __FILE_
 class getid3_id3v2
 {
 
-	function getid3_id3v2(&$fd, &$ThisFileInfo, $StartingOffset=0) {
+	function __construct(&$fd, &$ThisFileInfo, $StartingOffset=0) {
 		//    Overall tag structure:
 		//        +-----------------------------+
 		//        |      Header (10 bytes)      |
@@ -2977,12 +2977,12 @@ class getid3_id3v2
 	function IsValidID3v2FrameName($framename, $id3v2majorversion) {
 		switch ($id3v2majorversion) {
 			case 2:
-				return ereg('[A-Z][A-Z0-9]{2}', $framename);
+				return preg_match('/[A-Z][A-Z0-9]{2}/i', $framename);
 				break;
 
 			case 3:
 			case 4:
-				return ereg('[A-Z][A-Z0-9]{3}', $framename);
+				return preg_match('/[A-Z][A-Z0-9]{3}/i', $framename);
 				break;
 		}
 		return false;
