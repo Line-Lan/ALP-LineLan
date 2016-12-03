@@ -1,11 +1,9 @@
 <?php
 global $colors, $dbc;
 $beh = $dbc->database_query("SELECT * FROM news WHERE hide_item=0 ORDER BY itemtime DESC");
-	?><div><?php
+	?><div>
 		<font color="<?php echo $colors['primary']; ?>"><strong><?php echo $behrow['headline']; ?></strong><br /></font>
-	 </div><?php
-}
-?>
+	 </div>
 
 
 

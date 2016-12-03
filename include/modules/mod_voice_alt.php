@@ -23,7 +23,7 @@ if($master['voice_mode'] == "ts") {
 ///CONFIG FILE IMPORTED BELOW
 //
 
-class tss2info {
+class __construct {
 
 var $serverAddress;
 var $sitetitle;

@@ -16,7 +16,7 @@ class bargraph {
 	var $_height = 12;
 	var $_background = true;			// whether to use the 3d background for the empty section
 	
-	function bargraph($percent,$width,$widthpercent)
+	function __construct($percent,$width,$widthpercent)
     {
 		global $colors;
 		$this->_percent = $percent;
