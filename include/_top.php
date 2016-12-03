@@ -1,6 +1,4 @@
 <?php
-// Always use HTTPS
-if($_SERVER['HTTP_X_FORWARDED_PROTO'] != "https") { header("Location: https://" . $_SERVER["HTTP_HOST"] . $_SERVER["REQUEST_URI"]); exit(); }
 
 require_once 'include/_tab.php';
 require_once 'include/cl_module.php'; 
@@ -23,7 +21,7 @@ require_once 'include/_modulesX.php'; ?>
 <meta property="og:description" content="Line-Lan Eventmanagment">
 <meta property="og:image" content="https://line-lan.net/wp-content/uploads/2016/02/linelan-events.jpg">
 <link rel="shortcut icon" ref="/favicon.ico">
-<title><?php echo (!empty($title) ? $title . ' | ' : '') . $lan['name']; ?></title>
+<title><?php echo (!empty($title) ? $title . ' - ' : '') . $lan['name']; ?></title>
 <link rel="shortcut icon" href="favicon.ico" />
 <style type="text/css" media="all">
 	<?php include_once $master['currentskin'].'x.css.php'; ?>

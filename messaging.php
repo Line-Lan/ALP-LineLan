@@ -49,8 +49,8 @@ i?>the requested message is not available or it may not exist.<?php
 			// display the inbox page
 
 			?>
-			<strong>messaging</strong>:<br />
-			<?php if (current_security_level() < 1) { ?> to use this feature, you must log in.<?php } ?>
+			<strong>user message</strong>:<br /><br />
+			messaging lets you send a text-based message to a user of this lan party software. you can also read any messages that others have sent you.<?php if (current_security_level() < 1) { ?> to use this feature, you must log in.<?php } ?><br />
 			<br />
 			<?php
 			if (current_security_level() >= 1) {

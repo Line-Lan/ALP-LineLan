@@ -29,8 +29,10 @@ global $dbc, $start_time;
 
 	<?php spacer(5); ?>|<?php spacer(5); ?>
 
-	<a href="https://api.line-lan.net/">API</a><?php spacer(5); ?><?php spacer(5); ?>|<?php spacer(5); ?>
+<a href="https://status.line-lan.net/">Server-Status</a><?php spacer(5); ?><?php spacer(5); ?>|<?php spacer(5); ?>
 
+   	<a href="https://api.line-lan.net/">API</a>
+     <?php spacer(5); ?>|<?php spacer(5); ?>
     <a href="license.php">License</a>
 
     <?php spacer(5); ?>|<?php spacer(5); ?>
