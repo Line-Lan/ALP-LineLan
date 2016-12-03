@@ -9,7 +9,7 @@ class form {
 	var $_current_table_cells = array();
 	var $_displaycounter = 0;
 	
-	function form($crutch='')
+	function __construct($crutch='')
     {
 		$this->_elements = array();
 		$this->_crutch = $crutch;
@@ -207,7 +207,7 @@ class form_element {
 	var $_error;
 	var $_specific;
     
-	function form_element($type, $name, $req=0, $mod=0, $crutch=0, $desc="", $errors=array(), $extra="", $unclean=0, $empty_entry=1)
+	function __construct($type, $name, $req=0, $mod=0, $crutch=0, $desc="", $errors=array(), $extra="", $unclean=0, $empty_entry=1)
     {
 		$this->_type = $type;
 		$this->_name = $name;

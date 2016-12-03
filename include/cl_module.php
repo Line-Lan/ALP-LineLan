@@ -3,7 +3,7 @@ class Module {
 	// stores data for a single module
 	var $_name, $_loc, $_str, $_link, $_sec, $_isSlim, $_isOpen, $_type;
 	
-	function Module($n = '', $l = 'main', $sec = 1, $st = '', $sl = 0, $link = '', $type='')
+	function __construct($n = '', $l = 'main', $sec = 1, $st = '', $sl = 0, $link = '', $type='')
     {
 		// constructor
 		$this->_name = $n;
@@ -133,7 +133,7 @@ class ModuleManager {
 	var $_numLeft, $_numRight, $_numMain;
 	var $_leftModules, $_rightModules, $_mainModules;
 	
-	function ModuleManager()
+	function __construct()
     {
 		// constructor
 		$this->_numLeft = 0;

@@ -15,7 +15,7 @@ class genesis {
 	var $query_result;
 	
 	//Constructor
-	function genesis() {
+	function __construct() {
 
 		require_once(CONFIG_LOCATION);
 		$this->database['number_of_queries'] = 0;
@@ -124,7 +124,7 @@ class genesis {
 	function error_connect($additional) {
 		echo "<strong>Error:</strong> $additional";
 		echo '<br />';
-		if(DATABASE_TYPE == 'MYSQL')	{ echo mysql_errno() . ' : ' . mysql_error(); }
+		if(DATABASE_TYPE == 'MYSQL')	{ echo mysqli_errno() . ' : ' . mysqli_error(); }
 		if(DATABASE_TYPE == 'MYSQLI')	{ echo mysqli_connect_errno() . ' : ' . mysqli_connect_error(); }
 	}
 	
@@ -330,7 +330,7 @@ class genesis {
 		$email_host = explode("@", $mail);
     	$email_host = $email_host['1'];
     	$email_resolved = gethostbyname($email_host);
-    	if ($email_resolved != $email_host && eregi("^[0-9a-z]([-+_.~]?[0-9a-z])*@[0-9a-z]([-.]?[0-9a-z])*\\.[a-z]{2,4}$",$mail)) {
+    	if ($email_resolved != $email_host && preg_match("/^[0-9a-z]([-+_.~]?[0-9a-z])*@[0-9a-z]([-.]?[0-9a-z])*\\.[a-z]{2,4}$/i",$mail)) {
 	        $valid = true;
 		}
     return $valid;
@@ -342,7 +342,7 @@ class resultSet {
 	
 	var $query_result;
 	
-	function resultSet($result) {
+	function __construct($result) {
 		$this->query_result = $result;
 	}
 		

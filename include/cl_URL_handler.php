@@ -2,7 +2,7 @@
 class URL_handler {
 	var $_GET_str = '';
 	
-	function URL_handler() {
+	function __construct() {
 		$this->_GET_str = $this->create_GET_str();
 	}
 	

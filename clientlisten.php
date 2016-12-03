@@ -137,7 +137,7 @@ do {
 			foreach( $lines as $line )
 			{
 				$line = explode( '=', $line );
-				$$line[0] = $line[1];
+				$line[0] = $line[1];
 			}
 
 			$dbc->database_query( "INSERT INTO satellite_clients VALUES( '$peer_addr', '$game', '$clientcert', '$passwd', 'FALSE', '$Model', '$MHz', '$RAM', '1', '0', '0', '0', '0');" );

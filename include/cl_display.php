@@ -6,7 +6,7 @@ class display {
 	var $_groups = array();
 	var $_grouplist = array();
 
-	function display($name, $singular, $security, $count_bool, $table, $id, $order, $exclude='', $crutch='')
+	function __construct($name, $singular, $security, $count_bool, $table, $id, $order, $exclude='', $crutch='')
     {
 		$this->_name = $name;
 		$this->_singular = $singular;

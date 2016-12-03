@@ -5,7 +5,7 @@ class field {
 	var $_link = array();
 	var $_list = array();
 
-	function field($name,$desc,$security,$group,$crutch=array(),$link=array(),$list=array(),$date="",$interp=array())
+	function __construct($name,$desc,$security,$group,$crutch=array(),$link=array(),$list=array(),$date="",$interp=array())
     {
 		$this->_name = $name;
 		$this->_description = $desc;

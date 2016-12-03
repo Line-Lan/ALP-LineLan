@@ -2,7 +2,7 @@
 class validate {
 	var $_err;
 
-	function validate() {
+	function __construct() {
 		$this->reset_errors();
 	}
 
@@ -17,8 +17,8 @@ class validate {
             $postone = $_POST[$field];
             $getone = $_GET[$field];
         }else{
-            $postone = mysql_escape_string($_POST[$field]);
-            $getone = mysql_escape_string($_GET[$field]);
+            $postone = mysqli_escape_string($_POST[$field]);
+            $getone = mysqli_escape_string($_GET[$field]);
         }
         return ((!empty($_POST[$field]) || $_POST[$field]==0)?$postone:$getone);
 	}

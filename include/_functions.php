@@ -287,7 +287,7 @@ function adminlink($url,$security_level=2)
 
 function is_email($email) {
 	// check taken from http://www.phpexamples.net/codeExSnippet-58.html
-	if(!eregi("^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$", $email)) {
+	if(!preg_match("/^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,3})$/i", $email)) {
 		return false;
 	} else {
 		return true;
@@ -297,7 +297,7 @@ function is_email($email) {
 function is_ipaddress($str)
 {
 	// check taken from http://us4.php.net/ereg
-	if (ereg("^([0-9]{1,3}(\.[0-9]{1,3}){3})$|^([0-9]{8,10})$|^([0-9a-fA-F]{0,4}(:[0-9a-fA-F]{0,4}){2,7}(([0-9]{1,3}(\.[0-9]{1,3}){3})?|(/[0-9]+)?))$", $str)) {
+	if (preg_match("/^([0-9]{1,3}(\.[0-9]{1,3}){3})$|^([0-9]{8,10})$|^([0-9a-fA-F]{0,4}(:[0-9a-fA-F]{0,4}){2,7}(([0-9]{1,3}(\.[0-9]{1,3}){3})?|(/[0-9]+)?))$/", $str)) {
 
 		return true;
 	} else {
@@ -328,7 +328,7 @@ function get_langlist() {
     $dir       = 'include/lang';
     $dh        = opendir($dir);
     while (false !== ($filename = readdir($dh))) {
-        if (is_file('include/lang/'.$filename) && eregi("^[A-Z]{1,2}\.php$",$filename)&& $filename != '.' && $filename != '..' && $filename != 'CVS') {
+        if (is_file('include/lang/'.$filename) && preg_match("/^[A-Z]{1,2}\.php$/i",$filename)&& $filename != '.' && $filename != '..' && $filename != 'CVS') {
             $language = str_replace('.php','',$filename);
             $languages[$language] = $language; 
         }
